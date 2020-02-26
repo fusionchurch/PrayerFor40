@@ -21,10 +21,11 @@ var loadJSONData = function(){
 	xmlhttp.open("GET", "json/jsonExample.json", true);
 	xmlhttp.send();
 }
+    var one_day = 1000 * 60 * 60 * 24 
 loadJSONData();
  var daysBetween = function(d1, d2){
 	 // One day Time in ms (milliseconds) 
-    var one_day = 1000 * 60 * 60 * 24 
+
   
   
 // To Calculate next year's Christmas if passed already. 
@@ -66,24 +67,23 @@ var loadData = function(){
 }
 
 $.datetimepicker.setLocale('en');
-	var dateToDisable = new Date(2020,1,26);
+	var dateToDisable = new Date(2020,1,26,0,0,0);
 	var today = new Date();
 	var dateTillDisable = new Date(today.getFullYear(),today.getMonth(),today.getDate());
 	var curDt = dateTillDisable;
 $('#datetimepicker').datetimepicker({
 	beforeShowDay: function(date) {
 		if ((date.getTime()<dateToDisable.getTime()) ||
-			(date.getTime() > dateTillDisable.getTime())) {
+			(date.getTime()>=(dateTillDisable.getTime()+one_day))) {
 			return [false, ""]
 		}
 
 		return [true, ""];
 	},
-	defaultDate: new Date(),
 	timepicker:false,
 	format:'d M Y',
 	formatDate:'d-M-Y',
-	value:new Date()
+	value:dateTillDisable
 });
  $("#datetimepicker").change(function(){
 	 curDt = new Date($("#datetimepicker").val());

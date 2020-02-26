@@ -72,8 +72,8 @@ $.datetimepicker.setLocale('en');
 	var curDt = dateTillDisable;
 $('#datetimepicker').datetimepicker({
 	beforeShowDay: function(date) {
-		if ((date.getTime()<=dateToDisable.getTime()) ||
-			(date.getTime() >= dateTillDisable.getTime())) {
+		if ((date.getTime()<dateToDisable.getTime()) ||
+			(date.getTime() > dateTillDisable.getTime())) {
 			return [false, ""]
 		}
 

@@ -73,12 +73,13 @@ $.datetimepicker.setLocale('en');
 	var curDt = dateTillDisable;
 $('#datetimepicker').datetimepicker({
 	beforeShowDay: function(date) {
-		if ((date.getTime()<dateToDisable.getTime()) ||
-			(date.getTime()>=(dateTillDisable.getTime()+one_day))) {
-			return [false, ""]
+		var dateTillDisable = new Date(today.getFullYear(),today.getMonth(),today.getDate());
+		if ((date.getTime()>=dateToDisable.getTime()) &&
+			(date.getTime()<=(dateTillDisable.getTime()+one_day-1))) {
+			return [true, ""]
 		}
 
-		return [true, ""];
+		return [false, ""];
 	},
 	timepicker:false,
 	format:'d M Y',

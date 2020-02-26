@@ -67,7 +67,7 @@ var loadData = function(){
 }
 
 $.datetimepicker.setLocale('en');
-	var dateToDisable = new Date(2020,1,26,0,0,0);
+	var dateToDisable = new Date(2020,1,16,0,0,0);
 	var today = new Date();
 	var dateTillDisable = new Date(today.getFullYear(),today.getMonth(),today.getDate());
 	var curDt = dateTillDisable;

@@ -7,22 +7,26 @@ $(document).ready(function(){
  	},1000)
   
  });
- 
+
 var allData;
 var loadJSONData = function(){
+//		$.getJSON( "json/jsonExample.json", function( data ) {
+//			alert('success');
+//		});
 	var xmlhttp = new XMLHttpRequest();
 	xmlhttp.onreadystatechange = function() {
-	  if (this.readyState == 4) {
+	  if (this.readyState == 4 && this.status == 200) {
 		var myObj = JSON.parse(this.responseText);
 		allData = myObj;
 		loadData();
 	  }
 	};
-	xmlhttp.open("GET", "json/jsonExample.json", true);
+	xmlhttp.open("GET", "json/jsonExample.txt", true);
 	xmlhttp.send();
 }
     var one_day = 1000 * 60 * 60 * 24 
 loadJSONData();
+
  var daysBetween = function(d1, d2){
 	 // One day Time in ms (milliseconds) 
 
@@ -74,8 +78,8 @@ $.datetimepicker.setLocale('en');
 $('#datetimepicker').datetimepicker({
 	beforeShowDay: function(date) {
 		var dateTillDisable = new Date(today.getFullYear(),today.getMonth(),today.getDate());
-		if ((date.getTime()>=dateToDisable.getTime()) &&
-			(date.getTime()<=(dateTillDisable.getTime()+one_day-1))) {
+		if (((date.getTime()>=dateToDisable.getTime()) &&
+			(date.getTime()<=(dateTillDisable.getTime()+one_day-1))) || (window.user == 'FCreach@27220')) {
 			return [true, ""]
 		}
 
@@ -91,5 +95,9 @@ $('#datetimepicker').datetimepicker({
     loadData();
   });
 
+ $("#login").click(function(){
+	 
+	 window.user = prompt("Please enter your Secret name!", "");
+  });
 
 })

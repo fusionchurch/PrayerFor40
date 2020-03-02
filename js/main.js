@@ -21,7 +21,7 @@ var loadJSONData = function(){
 		loadData();
 	  }
 	};
-	xmlhttp.open("GET", "json/jsonExample.txt", true);
+	xmlhttp.open("GET", "json/jsonExample.json", true);
 	xmlhttp.send();
 }
     var one_day = 1000 * 60 * 60 * 24 

@@ -48,6 +48,8 @@ var loadData = function(){
 		var data = allData;
 		var objDat = data[parseInt(ind)];
 		$('#pDayNum').text("You are on Day : "+(parseInt(ind)+1)+" / 40");
+		$('#normal').show();
+		$('#spl').hide();
 		for(var nameVar in objDat){
 			if($('#'+nameVar) !=null){
 				
@@ -60,6 +62,22 @@ var loadData = function(){
 				
 				else if(nameVar == "pImage" && objDat[nameVar] !=""){
 					document.getElementById("prayFor").className  = 'portF';
+				}
+				else if(nameVar == "pDataContent"){
+					var contentObj = JSON.parse(objDat["pDataContent"])[0];
+					$('#normal').hide();
+					$('#spl').show();
+					var conText = "";
+					for( var contentObjItem in contentObj){
+						conText = conText + "<div> <p><h4><b>";
+						conText = conText + contentObjItem + "</h4></b><div>";
+						conText = conText + contentObj[contentObjItem].replace(/(?:\r\n|\r|\n)/g, '<br>') + "</div></p></div>"
+					}
+					$('#spl').html(conText);
+					
+					// for( var contentObjItem in contentObj){
+					// 	$('#'+contentObjItem.replace(/ /g,'')).html(contentObj[contentObjItem]);
+					// }
 				}
 				else
 					$('#'+nameVar).text(objDat[nameVar]);

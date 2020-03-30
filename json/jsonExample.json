@@ -1,5 +1,6 @@
 [
    {
+      "pDataCont": "N",
       "pName": "The Followers of Catholicism",
       "pFounder": "Peter, the disciple",
       "pDoOrigin": "1054 AD (Great Schism) in the Western Roman Empire",
@@ -18,6 +19,7 @@
       "SheetName": "1 - Catholic"
    },
    {
+      "pDataCont": "N",
       "pName": "The Eastern Orthodox Church, officially the Orthodox Catholic Church\nThe Eastern Orthodox Church is not a single church but rather a family of 13 self-governing bodies, denominated by the nation in which they are located (e.g., the Greek Orthodox Church, Russian Orthodox Church). They are united in their understanding of the sacraments, doctrine, liturgy, and church government, but each administers its own affairs.",
       "pFounder": "Peter, the disciple; Patriarch Michael Cerularius ",
       "pDoOrigin": "1054 AD (Great Schism) in the Western Roman Empire, Old Believers (17th century) True Orthodoxy (1920s)",
@@ -35,6 +37,7 @@
       "SheetName": "2 - Eastern Orthodox"
    },
    {
+      "pDataCont": "N",
       "pName": "The Oriental Orthodox Churches are a group of Christian churches adhering to miaphysite Christology and theology,\nThe Oriental Orthodox communion comprises six groups: Coptic Orthodox, Syriac Orthodox, Ethiopian Orthodox, Eritrean Orthodox, Malankara Orthodox Syrian Church (India) and Armenian Apostolic churches.",
       "pFounder": " The Oriental Orthodox churches are ancient churches which were founded in apostolic times, by apostles or by the apostles' earliest disciples. \nTheir doctrinal position is based on the teachings of the first three ecumenical councils (Nicea 325, Constantinople 381 and Ephesus 431). \nThe Alexandrian school of thought has guided and shaped their theological reflection. The teachings of Saint Cyril the Great constitute the foundation of their Christology.\nAfter centuries of isolation from each other, the Oriental Orthodox churches finally met in 1965 in Addis Ababa. At this historic meeting the church heads reaffirmed their belonging to one faith.",
       "pDoOrigin": "The Oriental Orthodox churches, along with those of the Byzantine tradition or Eastern Orthodox, belong to the larger family of the Orthodox churches.\n The two groups are not in communion with each other. The breach, which occurred in 451, marking the first ecclesial division in church history, was about the Christological teaching of the Council of Chalcedon.",
@@ -52,6 +55,7 @@
       "SheetName": "3 - Oriental Orthodox"
    },
    {
+      "pDataCont": "N",
       "pName": "The Eastern Catholic Churches or Oriental Catholic Churches, also called the Eastern-rite Catholic Churches, or simply the Eastern Churches and in some historical cases referred to pejoratively as Uniates",
       "pFounder": "The Nestorians are followers of Nestorius (c. AD 386\u2013451), who was Archbishop of Constantinople. Nestorianism is based on the belief put forth by Nestorius that emphasized the disunity of the human and divine natures of Christ.",
       "pDoOrigin": "Nestorius (c. AD 386\u2013451), who was Archbishop of Constantinople",
@@ -69,6 +73,7 @@
       "SheetName": "4 - Church of East"
    },
    {
+      "pDataCont": "N",
       "pName": "Lutheranism is one of the largest branches of Protestantism that identifies with the teachings of Martin Luther, a 16th-century German reformer. ",
       "pFounder": "Martin Luther",
       "pDoOrigin": "1500's",
@@ -87,6 +92,7 @@
       "SheetName": "5 - Lutheranism"
    },
    {
+      "pDataCont": "N",
       "pName": "Calvinism (also called the Reformed tradition, Reformed Christianity, Reformed Protestantism, or the Reformed faith) ",
       "pFounder": " John Calvin, a Protestant reformer in the 16th century, and its development by his followers.",
       "pDoOrigin": "1509-64",
@@ -105,6 +111,7 @@
       "SheetName": "6 - Calvinism"
    },
    {
+      "pDataCont": "N",
       "pName": "Anabaptism is a Christian movement which traces its origins to the Radical Reformation. The movement is generally seen as an offshoot of Protestantism, although this view has been challenged by some Anabaptists. The name Anabaptist means \"one who baptizes again\".",
       "pFounder": "Three main theories on origins of the Anabaptists are the following:\nThe movement began in a single expression in Z\u00FCrich and spread from there (Monogenesis); -  Swiss Reformer Huldrych Zwingli\nIt developed through several independent movements (polygenesis); and\nIt was a continuation of true New Testament Christianity (apostolic succession or church perpetuity).",
       "pDoOrigin": "The early Anabaptists formulated their beliefs in the Schleitheim Confession, in 1527.",
@@ -123,6 +130,7 @@
       "SheetName": "7 - Anabaptism"
    },
    {
+      "pDataCont": "N",
       "pName": "Anglicanism is a Western Christian tradition which has developed from the practices, liturgy, and identity of the Church of England following the English Reformation. It is also known as Episcopalians",
       "pFounder": "though the Charles Longley was the founder,\nin the reign of King Henry VIII, who ruled from 1509 to 1547 rejected the authority of Roman Catholic and the events that led to the formation of the state Anglican Church are a curious mix of ecclesiastical, political, and personal rivalries. \n Queen Elizabeth I, Thomas Cromwell, Thomas Cranmer, Hugh Latimer, Nicholas Ridley werealso considered as founders.",
       "pDoOrigin": "1534\n(King Henry's Act of Supremacy) in England",
@@ -141,6 +149,7 @@
       "SheetName": "8 - Anglicanism"
    },
    {
+      "pDataCont": "N",
       "pName": "Evangelicalism, evangelical Christianity, or evangelical Protestantism\nEvangelicalism is a somewhat broad term used to describe a movement within Protestantism that is characterized by an emphasis on having a personal relationship with Jesus Christ. This relationship begins when a person receives Christ\u2019s forgiveness and is spiritually reborn. Those who ascribe to this belief are called Evangelicals.",
       "pFounder": "The roots of Evangelicalism go back to the Protestant Reformation, during which time the Bible was brought to the masses in 16th century by Martin Luther",
       "pDoOrigin": "It wasn't until the great revivals of the 18th and 19th centuries in Europe and America, though, that Evangelicalism truly began as a movement. ",
@@ -159,6 +168,7 @@
       "SheetName": "9 - Evangelicalism"
    },
    {
+      "pDataCont": "N",
       "pName": "Shiah",
       "pFounder": "Ali ibn Abi Talib",
       "pDoOrigin": "632 BC",
@@ -176,6 +186,7 @@
       "SheetName": "10 - Shiah"
    },
    {
+      "pDataCont": "N",
       "pName": "Sunni",
       "pFounder": "Abu al-Hasan al-Ash'ari",
       "pDoOrigin": "873\u2013935",
@@ -193,6 +204,7 @@
       "SheetName": "11 - Sunni"
    },
    {
+      "pDataCont": "N",
       "pName": "Ahmadiyya",
       "pFounder": "Mirza Ghulam Ahmad",
       "pDoOrigin": "23 March 1889",
@@ -210,6 +222,7 @@
       "SheetName": "12 - Ahmadiyya - Sufi"
    },
    {
+      "pDataCont": "N",
       "pName": "Khawarij",
       "pFounder": "Muhammad ibn Abd al-Wahhab",
       "pDoOrigin": "657 AD",
@@ -227,6 +240,7 @@
       "SheetName": "13 - Khawarji"
    },
    {
+      "pDataCont": "N",
       "pName": "Vaishnavism, also called Vishnuism, one of the major forms of modern Hinduism, characterized by devotion to the god Vishnu and his incarnations (avatars).",
       "pFounder": " V\u0101sudeva, a leading member of the Vrishni heroes\n Krishna, hero of the Yadavas\n Bala Krishna of the Gopala traditions",
       "pDoOrigin": "originates in the latest centuries BCE and the early centuries CE",
@@ -245,6 +259,7 @@
       "SheetName": "14 - Vaishnavism"
    },
    {
+      "pDataCont": "N",
       "pName": "Shaivism is the branch of Hinduism that worships Shiva as the supreme deity. It is one of the major branches of Hinduism. The followers of Shaivism are called Shaivas. ",
       "pFounder": "It was founded by Sri Basaveshvara (1105-67). The Vira Shaivists started a movement that rejected Vedic authority, caste hierarchy, the system of four stages of life, and veneration of a multiplicity of gods. They considered Shiva as the supreme god and worshipped him through linga.",
       "pDoOrigin": "2500-2000 BCE",
@@ -263,6 +278,7 @@
       "SheetName": "15 - Shivism"
    },
    {
+      "pDataCont": "N",
       "pName": "Shaktism is one of the more commonly known sub-divisions within Hinduism. Shaktism shares the core beliefs held by all Hindus but with a notable emphasis on a feminine aspect of divinity, rather than a masculine one.",
       "pFounder": "earliest Mother Goddess figurine unearthed in India (near\u00A0Allahabad) belongs to the\u00A0Upper Paleolithic, and carbon-dates to approximately 20,000 - 23,000 BCE.",
       "pDoOrigin": " Devi's earliest known appearance in Indian Paleolithic settlements more than 20,000 years ago",
@@ -281,6 +297,7 @@
       "SheetName": "16 - Shaktism"
    },
    {
+      "pDataCont": "N",
       "pName": "Smartism is a sect of Hinduism that allows its followers to worship more than one god, unlike in sects like Shaivism and Vaishnavism, in which only Shiva and Vishnu are worshipped",
       "pFounder": " Adi Shankaracharya",
       "pDoOrigin": "4th - 5th centruy, but in 8th century it is formalised",
@@ -299,6 +316,7 @@
       "SheetName": "17 - Smartism"
    },
    {
+      "pDataCont": "N",
       "pName": "Atheism is the view that God does not exist. Atheism is not a new development and people were atheists in Old Testament too.(Psalms 14:1)",
       "pFounder": "The ideology of Atheism exists in different places in different times.",
       "pDoOrigin": "Not known",
@@ -317,6 +335,7 @@
       "SheetName": "18 - Atheism"
    },
    {
+      "pDataCont": "N",
       "pName": "Satanism is not easily defined. There are several \"divisions\" of Satanism. In contrast to Christians, Satanists themselves disagree on their very fundamental principles. Satanism may or may not involve worshiping Satan, but it is a conscious effort to NOT worship the one true God",
       "pFounder": "Anton Szandor LaVey",
       "pDoOrigin": "1966-04-29T18:30:00.000Z",
@@ -335,6 +354,7 @@
       "SheetName": "19 - Satanism"
    },
    {
+      "pDataCont": "N",
       "pName": "Mahayana Buddhism- Mah\u0101y\u0101na is one of two main existing branches of Buddhism (the other being Theravada) and a term for classification of Buddhist philosophies and practice. The Buddhist tradition of Vajrayana is sometimes classified as a part of Mah\u0101y\u0101na Buddhism, but some scholars consider it to be a different branch altogether",
       "pFounder": "Siddartha Guatama",
       "pDoOrigin": "1st century BCE and 1st Century CE",
@@ -353,6 +373,7 @@
       "SheetName": "22 - Mahayana"
    },
    {
+      "pDataCont": "N",
       "pName": "Theravada Buddhism",
       "pFounder": "Siddartha Guatama",
       "pDoOrigin": "3rd century BCE onwards",
@@ -371,6 +392,7 @@
       "SheetName": "23 - Theravada"
    },
    {
+      "pDataCont": "N",
       "pName": "African Traditional & Diasporic",
       "pFounder": "African traditional religion refers to the indigenous or autochthonous religions of the African people. It deals with their cosmology, ritual practices, symbols, arts, society, and so on. Because religion is a way of life, it relates to culture and society as they affect the worldview of the African people.",
       "pDoOrigin": "African traditional religion can be traced back to the very beginning of the emergence of African peoples.",
@@ -389,6 +411,7 @@
       "SheetName": "24 - African"
    },
    {
+      "pDataCont": "N",
       "pName": "Sikhism",
       "pFounder": "Guru Nanak Dev",
       "pDoOrigin": "The\u00A0Sikh\u00A0faith began around 1500 CE, when Guru Nanak began teaching a faith that was quite distinct from Hinduism and Islam.",
@@ -407,6 +430,7 @@
       "SheetName": "25 - Sikhism"
    },
    {
+      "pDataCont": "N",
       "pName": "Juche, is the official state ideology of North Korea, described by the government as \"Kim Il-sung's original, brilliant and revolutionary contribution to national and international thought\". It is most commonly translated as \"self-reliance\".",
       "pFounder": "Official statements by the North Korean government attribute the origin of Juche to Kim Il-sung's experiences in the Anti-Imperialist Youth League in 1930 in his liberation struggle against Japan.",
       "pDoOrigin": "1976- 78",
@@ -425,6 +449,7 @@
       "SheetName": "26 - Juche"
    },
    {
+      "pDataCont": "N",
       "pName": "Spiritism",
       "pFounder": "Hippolyte L\u00E9on Denizard Rivail",
       "pDoOrigin": "19th century",
@@ -443,6 +468,7 @@
       "SheetName": "27 - Spiritism"
    },
    {
+      "pDataCont": "N",
       "pName": "Judiasm",
       "pFounder": "Abraham",
       "pDoOrigin": "1812 BC (over 3,800 years ago) recorded from Abraham. But before that it is followed as cultural",
@@ -461,6 +487,7 @@
       "SheetName": "28 - Judaism"
    },
    {
+      "pDataCont": "N",
       "pName": "Bah\u00E1\u02BC\u00ED Faith\nBaha'is believe that God periodically reveals his will through divine messengers, whose purpose is to transform the character of humankind and to develop, within those who respond, moral and spiritual qualities. Religion is thus seen as orderly, unified, and progressive from age to age.",
       "pFounder": "Bah\u00E1\u02BCu'll\u00E1h, born M\u00EDrz\u00E1 \u1E24usayn-\u02BBAl\u00ED N\u00FAr\u00ED, was a Persian religious leader, and the founder of the Bah\u00E1\u02BC\u00ED Faith\nThe B\u00E1b, born Siyyid \u02BBAl\u00ED Muhammad Sh\u00EDr\u00E1z\u00ED was the founder of B\u00E1bism, and one of the central figures of the Bah\u00E1\u02BC\u00ED Faith. ",
       "pDoOrigin": "The Bah\u00E1'\u00ED faith began to take its present form in 1844 in Iran. It grew out of the Shi'ite branch of the Muslim faith.",
@@ -479,6 +506,7 @@
       "SheetName": "29 - Bah\u00E1\u02BC\u00ED Faith"
    },
    {
+      "pDataCont": "N",
       "pName": "Jainism",
       "pFounder": "It was founded by Vardhamana Jnatiputra or Nataputta Mahavira (599-527 BC), called Jina (Spiritual Conqueror)",
       "pDoOrigin": "Jains trace their history through twenty-four tirthankara and revere Rishabhanatha as the first tirthankara (in the present time-cycle). Some artifacts found in the Indus Valley civilization have been suggested as a link to ancient Jain culture, but this is highly speculative and a subjective interpretation. This theory has not been accepted by most scholars because very little is known about the Indus Valley iconography and script. The last two tirthankara, the 23rd tirthankara Parshvanatha (c. 8th\u20137th century BCE)[5][6][7] and the 24th tirthankara Mahavira (c.\u2009599 \u2013 c.\u2009527 BCE) are considered historical figures. Mahavira was the elder contemporary of the Buddha. According to Jain texts, the 22nd Tirthankara Neminath lived about 85,000 years ago and was the cousin of Hindu god Krishna. Jains consider their religion eternal.",
@@ -497,6 +525,7 @@
       "SheetName": "30 - Jainism"
    },
    {
+      "pDataCont": "N",
       "pName": "Shinto, also known as Shintoism or kami-no-michi, is a religion originating from Japan.",
       "pFounder": "According to revived Shinto doctrine, the sovereignty of the emperor was exercised by divine right through his reputed descent from the sun goddess Amaterasu Omikami, who is considered the founder of the Japanese nation. But broadly speaking, Shint\u014D has no founder. When the Japanese people and Japanese culture became aware of themselves, Shint\u014D was already there. ",
       "pDoOrigin": "In the late 6th century AD the name Shinto was created for the native religion to distinguish it from Buddhism and Confucianism, which had been introduced from China. Shinto was rapidly overshadowed by Buddhism, and the native gods were generally regarded as manifestations of Buddha in a previous state of existence.",
@@ -515,6 +544,7 @@
       "SheetName": "31 - Shinto"
    },
    {
+      "pDataCont": "N",
       "pName": "\u0110\u1EA1i \u0110\u1EA1o Tam K\u1EF3 Ph\u1ED5 \u0110\u1ED9 (The Great Faith [for the] Third Universal Redemption). Caodaism is a monotheistic syncretic religion officially established in the city of T\u00E2y Ninh in southern Vietnam",
       "pFounder": "Ng\u00F4 V\u0103n Chi\u00EAu, a district head of the French administration in Cochinchina, was the first to worship and receive messages from Cao \u0110\u00E0i in 1921. He received a vision of the Divine Eye which is now the symbol for Cao \u0110\u00E0i as well as the focus for worship on all Cao \u0110\u00E0i altars.",
       "pDoOrigin": "In 1919 Ngo Van Chieu (q.v.), an administrator for the French in Indochina, received a communication from the supreme deity during a table-moving s\u00E9ance. Chieu became the prophet of the new religion, which was formally established in 1926. ",
@@ -531,6 +561,7 @@
       "SheetName": "32 - Caodaism"
    },
    {
+      "pDataCont": "N",
       "pName": "Zoroastrianism is based on the teachings of Zoroaster, a 6th-century BC Iranian prophet and philosopher.",
       "pFounder": "Zoroastrianism was founded by Zoroaster (or Zarathushtra) in ancient Iran. ",
       "pDoOrigin": "The precise date of the founding of Zoroastrianism is uncertain and dates differ wildly from 2000 BCE to \"200 years before Alexander\".",
@@ -549,6 +580,7 @@
       "SheetName": "33 - Zoroastrianism"
    },
    {
+      "pDataCont": "N",
       "pName": "Tenriky\u014D, sometimes rendered as Tenriism) is a Japanese new religion which is neither strictly monotheistic nor pantheistic, originating from the teachings of a 19th-century woman named Nakayama Miki, known to her followers as Oyasama.",
       "pFounder": "Nakayama Miki, who is known by Tenriists as Oyasama",
       "pDoOrigin": "late 1830's ",
@@ -567,6 +599,7 @@
       "SheetName": "34 - Tenriism"
    },
    {
+      "pDataCont": "N",
       "pName": "Modern Paganism, also known as Contemporary Paganism and Neopaganism, is a collective term for new religious movements influenced by or derived from the various historical pagan beliefs of pre-modern peoples. ",
       "pFounder": "Contemporary Paganism is the restoration of indigenous religion, especially that of ancient Europe.",
       "pDoOrigin": "Paganism has grown in popularity greatly during the last hundred years. The growth coincides with a decline in Christianity in Europe, and the increase in knowledge of past and distant cultures.",
@@ -585,6 +618,7 @@
       "SheetName": "35 - Modern Paganism"
    },
    {
+      "pDataCont": "N",
       "pName": "Taoism, also known as Daoism. ",
       "pFounder": "Lao-Tzu also know as Laozi, Lao-Tze",
       "pDoOrigin": "4th Century BCE",
@@ -596,13 +630,14 @@
       "pTexts": "Tao Te Ching  also known as  D\u00E0o D\u00E9 J\u012Bng(\u201CBook of the Way and its Power, or Manifestation\u201D)\nI Ching (\u201CBook of Change\u201D)\nTao Tsang\nT\u2019ai Shang Kan Ying P\u2019ien (\u201CTractate on Actions and Retributions\u201D)\nT\u2019ai I Chin Hua Tsung Chih (\u201CThe Secret of the Golden Flower\u201D)",
       "pSites": "Four sacred mountains of Taoism:\nWudang Mountains, in Shiyan, Hubei Province of China;\nMount Qingcheng, in Dujiangyan, Sichuan Province;\nMount Longhu, in Yingtan, Jiangxi Province;\nMount Qiyun, in Huangshan, Anhui Province.",
       "pPeople": "Some of the important people are Laozi or Lao Tzu, Zhuangzi or Chuang Tzu, Huangdi. A few of the popular people who followed Taoism are Bruce Lee, Alan Watts, Kenneth Dickerson.",
-      "pIssues": "The philosophical essence, the Tao, for example, is empty and invisible, yet all of reality is believed to come from it. Nothing in Taoism is fixed, everything is changing. Religious Taoism has hundreds of gods, but none is supreme.",
+      "pIssues": "The philosophical essence, the Tao, for example, is empty and invisible, yet all of reality is believed to come from it. Nothing in Taoism is fixed, everything is changing. Religious Taoism has hundreds of gods, but none is supreme.\\",
       "pMorning": "2 Tim 3",
       "pAfternoon": "2 Tim 4",
       "pEvening": "Tit 1:1-2:10",
       "SheetName": "20 - Taoism"
    },
    {
+      "pDataCont": "N",
       "pName": "Confucianism, also known as Ruism",
       "pFounder": "Kong Qui, also known as Confucius",
       "pDoOrigin": "4th Century BCE",
@@ -619,5 +654,72 @@
       "pAfternoon": "Phil",
       "pEvening": "Heb 1",
       "SheetName": "21 - Confucianism"
+   },
+   {
+      "pDataCont": "N",
+      "pName": "Unitarian Universalism (UU) is a liberal religion characterized by a \"free and responsible search for truth and meaning\". Unitarian Universalists assert no creed, but instead are unified by their shared search for spiritual growth, guided by a dynamic, \"living tradition\".",
+      "pFounder": "Members of\u00A0American Unitarian Association\u00A0and\u00A0Universalist Church of America\u00A0via consolidation",
+      "pDoOrigin": "16 Century & May 1961.",
+      "pPoOrigin": "Unitarianism, as a Christian denominational family of churches, was first defined in Poland-Lithuania and Transylvania in the late 16th century. It was then further developed in England and America until the early 19th century, although theological ancestors are to be found as far back as the early days of Christianity. It matured and reached its classical form in the middle 19th century. Later historical development has been diverse in different countries.",
+      "pPopulation": "300,000 registered members, mostly in the United States",
+      "pDoctrine": "The Unitarian Universalist name comes from their denial of the doctrine of the Trinity and their belief that all human beings gain salvation. According to Universalists, the mere idea someone might go to hell is not compatible with the character of a loving God. Its roots go all the way back to the sixteenth century when Unitarian beliefs became popular during the Reformation. Unitarian thought and Universal thought were merged together during the late eighteenth-century in America during the Age of Reason. The intellectual elite of that time refused to believe in such biblical teachings as total depravity and eternal damnation, but rather embraced the idea of a loving God who would never cause someone to suffer.\n\nAdherents of Unitarian Universalism base their beliefs primarily upon their own experiences and are not committed to any one religious system. They believe that individuals have the right to decide for themselves what to believe in and that others should not infringe upon this right. As a result, one such believer might lean toward liberal Christianity, while another might lean toward New Age spirituality. There is no real dogma beyond tolerance\u2014for everything except biblical Christianity. Unitarian Universalists view the Bible as a book of poetry, myth, and moral teaching, a completely human book and not truly the Word of God. They reject the Bible\u2019s portrayal of a Triune God, leaving the concept of God up to each individual\u2019s imagination.\n\nThe member congregations of the Unitarian Universalist Association, covenant to affirm and promote:\nThe inherent worth and dignity of every person;\nJustice, equity and compassion in human relations;\nAcceptance of one another and encouragement to spiritual growth in our congregations;\nA free and responsible search for truth and meaning;\nThe right of conscience and the use of the democratic process within our congregations and in society at large;\nThe goal of world community with peace, liberty, and justice for all;\nRespect for the interdependent web of all existence of which we are a part.\n\nUnitarian Universalists place emphasis on spiritual growth and development. The official statement of Unitarian Universalist principles describes the \"sources\" upon which current practice is based:\nDirect experience of that transcending mystery and wonder, affirmed in all cultures, which moves us to a renewal of the spirit and an openness to the forces which create and uphold life;\nWords and deeds of prophetic people which challenge us to confront powers and structures of evil with justice, compassion, and the transforming power of love;\nWisdom from the world's religions which inspires us in our ethical and spiritual life;\nJewish and Christian teachings which call us to respond to God's love by loving our neighbors as ourselves;\nHumanist teachings which counsel us to heed the guidance of reason and the results of science, and warn us against idolatries of the mind and spirit.\nSpiritual teachings of earth-centered traditions which celebrate the sacred circle of life and instruct us to live in harmony with the rhythms of nature.\n",
+      "pDeviation": "The Unitarian belief that reason, and not creed, defines the search for truth, and the Universalist belief that God embraces all people equally has led to the current Unitarian Universalist belief that truth and spiritual meaning can be found in all faiths. This is reflected in the wide array of spiritual practices found among Unitarian Universalists today.\nThe \"borrowing\" of religious rituals from other faith traditions by Unitarian Universalists was discussed at the Unitarian Universalist General Assembly in 2001 during a seminar titled \"Cultural Appropriation: Reckless Borrowing or Appropriate Cultural Sharing\" by the Religious Education Dept, UUA.\nDuring the presidency of William Sinkford, debate within the Unitarian Universalist movement has roiled over his call to return to or create an authentic Unitarian Universalist \"language of reverence.\" Sinkford has suggested that Unitarian Universalists have abandoned traditional religious language, thereby abandoning words with potential power to others who will then dictate their meanings in the public sphere. He has suggested that Unitarian Universalists regain their proper seat at the interfaith table by making this language their own.\nInternal controversy over the hiring of a white man to lead the UUA's southern region led to resignations and apologies in 2017. UUA President Peter Morales, the denomination's first Latino president, resigned amid criticism of his failure to address the diversity controversies.",
+      "pFestivals": "Christmas, Jewish holidays like Passover, and Pagan Winter Solstice, among others. In addition to religious holidays, secular holidays including Earth Day, Martin Luther King Jr. Day, Labor Day, Indigenous Peoples Day, and Thanksgiving. ",
+      "pTexts": "All sources admissible, none required. Members are free to observe their own personally-favored literature. But mostly the Bible, the Dhammapada, or the Tao Te-Ching",
+      "pSites": "Many Unitarian Universalist congregations include Buddhist-style meditation groups, Jewish Seder, Yom Kippur and Passover dinners, iftaar meals (marking the breaking of Ramadan fast for Muslims), and Christmas Eve/Winter Solstice services. Children's and youth's religious education classes teach about the divinity of the world and the sanctity of world religions. One of its more popular curricula, Neighboring Faiths (formerly Church Across the Street), takes middle and high school participants to visit the places of worship of many faith traditions including a Hindu temple, a Reform or Orthodox synagogue, and a Catholic church.",
+      "pPeople": "John Quincy Adams - US president\nLouisa May Alcott - children's writer\nP. T. Barnum - circus owner\nB\u00E9la Bart\u00F3k - composer\nDorothea Dix - social reformer\nRalph Waldo Emerson - writer and thinker\nElizabeth Gaskell - novelist\nEdvard Greig - composer\nSylvia Plath - poet\nMary Wollstonecraft - feminist\nChristopher Reeve - actor\nTim Berners-Lee - creator of the world wide web\nPete Seeger - musician\nLord Bullock - historian",
+      "pIssues": "Unitarian Universalism has nothing in common with biblical Christianity. It is a false gospel, its teachings are contrary to the Bible, and its members strongly oppose traditional, biblical Christian beliefs (while purporting to be free of discrimination or prejudice of any kind). The Bible clearly refutes Unitarian Universalism on all the major points of its teachings.",
+      "pMorning": "Heb 2",
+      "pAfternoon": "Heb 3",
+      "pEvening": "Heb 4",
+      "SheetName": "36 - Unitarian Universalism"
+   },
+   {
+      "pDataCont": "N",
+      "pName": "Rastafari, also known as Rastafarianism, is an Abrahamic religion that developed in Jamaica during the 1930s. It is classified as both a new religious movement and a social movement by scholars of religion.",
+      "pFounder": "Leonard P. Howell",
+      "pDoOrigin": "The first branch of Rastafari is believed to have been established in Jamaica in 1935 by Leonard P.\u00A0Howell.",
+      "pPoOrigin": "Jamaica ",
+      "pPopulation": "700,000 to 1 million Rastas",
+      "pDoctrine": "Rastafarians believe in the Judeo-Christian God and call him Jah. They believe Christ came to Earth as a divine manifestation of Jah. Some Rastafarians believe that Christ was black, while many focus on Emperor Haile Selassie of Ethiopia as the black messiah and rebirth of Christ.\nThere is no formal Rastafari creed and there are slight differences in the views of different groups.\n\nThe most definitive list is found in the 1977 book The Rastafarians, The Dreadlocks of Jamaica by scholar Leonard Barrett who lists what he regards as the six basic principles of Rastafari. He developed the list by attending public meetings and through anthropological research into the movement.\n\nHaile Selassie I is the Living God\nThe Black person is the reincarnation of ancient Israel, who, at the hand of the White person, has been in exile in Jamaica\nThe White person is inferior to the Black person\nJamaica is hell; Ethiopia is heaven\nThe Invincible Emperor of Ethiopia is now arranging for expatriated persons of African origin to return to Ethiopia\nIn the near future Blacks shall rule the world\nBut Leonard Barrett's list is itself about thirty years old and so many of the beliefs above may no longer have the same significance to modern Rastafarians. This is especially true since the spread of the movement to the West which has led to the emergence of White Rastafarians.",
+      "pDeviation": "The key ideas in contemporary Rastafari are:\n\nThe humanity of God and the divinity of man\nThis refers to the importance of Haile Selassie who is perceived by Rastafarians as a living God. Likewise it emphasises the concept of God revealing himself to his followers through his humanity.\nGod is found within every man\nRastafarians believe that God makes himself known through humanity. According to Jagessar \"there must be one man in whom he exists most eminently and completely, and that is the supreme man, Rastafari, Selassie I.\"\nGod in history\nIt is very important to see all historical facts in the context of God's judgement and workings.\nSalvation on earth\nSalvation for Rastafarians is an earthly idea, rather than heavenly.\nThe supremacy of life\nHuman nature is very important to Rastafarians and they should preserve and protect it.\nRespect for nature\nThis idea refers to the importance and respect Rastafarians have for animals and the environment, as mirrored in their food laws.\nThe power of speech\nSpeech is very important to Rastafarians, as it enables the presence and power of God to be felt.\nEvil is corporate\nSin is both personal and corporate. This means organisations such as the International Monetary Fund are responsible for Jamaica's fiscal situation, and that oppression is in part influenced by them.\nJudgement is near\nThis corresponds to the nearness of judgement for Rastafarians when they will be given greater recognition.\nThe priesthood of Rastafarians\nRastafarians are the chosen people of God and are on earth to promote his power and peacefulness.",
+      "pFestivals": "\nEthiopian Christmas (7th January)\nChristianity has existed in Ethiopia since 330 AD, and Rastafarians regard blacks as the Jews of the Bible.\n\nGroundation Day (21st April)\nMarks the date Haile Selassie I visited Jamaica in 1966. The visit was the only time the Emperor visited Jamaica.\nA Nyabingi session, inclusive of music, chanting and prayer is held to mark the occasion.\n\nEthiopian Constitution Day (16th July)\nCommemorates the implementation of Ethiopia's first constitution by Haile Selassie in 1931. The constitution instigated a Parliament and resulted in the appointment of a number of deputies, although Emperor Haile Selassie I retained supreme power and authority.\n\nRastafarians remember the history of Ethiopia and the events that led up to the birth of the Rastafari religion.\n\nA Nyabingi session also occurs to honour the importance of Ethiopia.\n\nBirthday of Emperor Haile Selassie (23rd July)\nObserves the day on which Emperor Haile Selassie I was born in 1892.\n\nNyabingi sessions are held to honour the date.\n\nMarcus Garvey's Birthday (17th August)\nCommemorates the Birthday of Marcus Garvey, the Jamaican politician born in 1887 who predicted the crowning of a King in Africa, and instigated the 'Back to Africa' movement.\n\nOn this date Rastafarians remember the important role played by Marcus Garvey in the development of Black rights. The occasion reflects on Marcus Garvey's influential prophecy. Poetry is recited recalling the historical importance of Marcus Garvey. African dance is also encouraged.\n\nEthiopian New Year's Day (11th September)\nThe start of the New Year in Ethiopia is recognised because Rastafarians believe Ethiopia to be their spiritual homeland, and a place to which they want to return.\n\nThe history of Ethiopia is remembered, and its importance acknowledged through Biblical passages and prayer. A Nyabingi session is also held to mark the occasion.\n\nCrowning of Emperor Haile Selassie I (2nd November)\nCommemorates the Coronation of Ras Tafari, as Emperor Haile Selassie I, King of Ethiopia in 1930.\n\nThe high priest reads Biblical passages and initiates the singing of songs to re-emphasise the importance of Haile Selassie as Messiah. A Nyabingi meeting also takes place to remember Haile Selassie.",
+      "pTexts": "The sacred text of Rastafarians is the Holy Piby, the \u201CBlack Man's Bible\u201D. The Ethiopian national epic, the Kebra Negast and the Bible are also used as sacred texts. Rastafarians use marijuana during the two main Rastafari rituals: reasonings and nyabingi.",
+      "pSites": "Rastafari doesn't have a specific religious building that is set aside for worship. Rastafarians usually meet weekly, either in a believer's home or in a community centre.\nThe meetings are referred to as Reasoning sessions. They provide a time for chants, prayers and singing, and for communal issues to be discussed. Marijuana may be smoked to produce heightened spiritual states.\nThe music used at these meetings is known as Nyabingi, and so when meetings are mostly musical they are often referred to as Nyabingi meetings.\nMeetings may also include large feasts.\n\nMarijuana is regarded as a herb of religious significance. It is used in Rastafari reasoning sessions, which are communal meetings involving meditation.",
+      "pPeople": "Bob Marley (1945\u20131981), musician and singer.\nPeter Tosh (1944\u20131987) musician and singer.\nBunny Wailer (1947\u2013), reggae singer.\nMax Romeo (1947\u2013), reggae singer.\nWinston Rodney (Burning Spear) (1945\u2013), musician and singer.\nAlpha Blondy, Ivorian reggae musician.\nAlborosie, (1977-), Italian-Jamaican musician and singer.",
+      "pIssues": "Rastafarianism has always been more of a philosophy and cultural lifestyle than a movement. There are no leaders, no definitive creed and, apart from reggae performers, there are no official spokespersons. Where mystical symbolism pertains it is usually biblically influenced and linked to African messianic expression and millennialism.\nThe pantheistic track of Rasta is equally false and based on the same lie that Satan has been telling mankind since the garden of Eden: \u201Cyou will be as God\u201D ",
+      "pMorning": "Heb 5",
+      "pAfternoon": "Heb 6",
+      "pEvening": "Heb 7 ",
+      "SheetName": "37 - Rastafarism"
+   },
+   {
+      "pDataCont": "N",
+      "pName": "Scientology, based on the book Dianetics: The Evolution of a Science ",
+      "pFounder": " American author L. Ron Hubbard (1911\u201386)",
+      "pDoOrigin": "May 1952.",
+      "pPoOrigin": "Southern California",
+      "pPopulation": "Official survey: 25,000, but the Church of Scientology has often asserted that it has approximately ten million members worldwide.",
+      "pDoctrine": "In 1950, L. Ron Hubbard\u2014the founder of Scientology\u2014published his bestselling book \u201CDianetics: The Modern Science of Mental Health.\u201D Though he originally conceived of Dianetics as a \u201Cscience of the mind,\u201D Hubbard later adapted his theories into a more religious approach, calling it the Church of Scientology\nThe Church of Scientology says that mankind is an immortal being (called a Thetan) not originally from this planet, and that man is trapped by matter, energy, space, and time (MEST). Salvation for a scientologist comes through a process called \u201Dauditing,\u201D whereby \u201Dengrams\u201D (basically, memories of past pain and unconsciousness that create energy blockage) are removed. Auditing is a lengthy process and can cost hundreds of thousands of dollars. When all engrams are finally removed, the Thetan can once again control MEST instead of being controlled by it. Until salvation, each Thetan is constantly reincarnated.\nScientology is a very expensive religion to pursue. Every aspect of Scientology has some sort of fee associated with it. This is why Scientology\u2019s \u201Cpews\u201D are filled only with the wealthy. It is also a very strict religion and very punitive against those who would try to leave behind its teachings and membership. Its \u201Cscriptures\u201D are limited solely to the writings and teachings of L. Ron Hubbard.\n Scientology believes that there are multiple gods and that some gods are above other gods.\nScientology believes in reincarnation and that personal salvation in one\u2019s lifetime is freedom from the cycle of birth and death associated with reincarnation. They believe that religious practice of all faiths is the universal way to wisdom, understanding, and salvation. ",
+      "pDeviation": "Dianetics is the generic term for the beliefs underlying Scientology. Dianetics is the claim that each person\u2019s painful past experiences create a lasting impression, termed an \u201Cengram,\u201D on that person\u2019s \u201Creactive\u201D (subconscious) mind. According to Dianetics, these engrams are the root cause of various diseases, conditions, neuroses, and injuries. According to Scientology, the list of maladies caused by engrams is extensive, including deficient vision, sexual problems, allergies, joint pain, headaches, and so forth. Engrams are also blamed for psychological disorders from depression to violence. Scientology founder L. Ron Hubbard went so far as to claim that, if dianetic therapy was applied worldwide, there no longer would be any crime, war, or insanity.\nIn the Church of Scientology, auditing is a process whereby the auditor takes an individual, known as a PC or \"preclear,\" through times in their life and gets rid of any past or current negative situations that may have a hold on to them due to falsehoods that may reside with those situations, and have heretofore been uninspected.",
+      "pFestivals": " Church of Scientology include the following:\nFebruary 22: Celebrity Day - The anniversary of the opening of the Celebrity Centre International in Los Angeles in 1970, which, in the Church's words, is \"dedicated to the rehabilitation of the culture through art\".\nMarch 13: L. Ron Hubbard's birthday\nMarch 24: Student Day - This holiday celebrates the commencement of the Saint Hill Special Briefing Course in 1961.\nApril 20: L. Ron Hubbard Exhibition Day\nMay 9: Anniversary of Dianetics -Hubbard's book Dianetics: The Modern Science of Mental Health hit store shelves on this day in 1950. Another very important holiday in Scientology.\nMay 25: Integrity Day - A day of contemplation of Hubbard's 1965 study on Scientology Ethics.\nJune 6: Maiden Voyage Anniversary\nJune 18: Academy Day\nAugust 12: Sea Org Day - Sea Org Day is a special event for all Sea Organization members, with rank and rating promotion ceremonies. \nSeptember 4: Clear Day - Clear Day marks the inauguration of Hubbard's Clearing Course, which debuted in 1965.\n2nd Sunday in September: Auditor's Day\nOctober 7: IAS Anniversary\nNovember 27: Publications Day\nDecember 7: Flag Land Base Day - Celebrates the opening of the Flag Land Base in Clearwater, Florida in 1975.\nDecember 30: Freedom Day - Celebrates the official recognition of the religion in the United States, in 1974.\nDecember 31: New Year's Eve\n",
+      "pTexts": "Within the Church of Scientology, the Xenu story is part of the church's secret \"Advanced Technology\", considered a sacred and esoteric teaching, which is normally only revealed to members who have completed a lengthy sequence of courses costing large amounts of money.\nThe written and recorded spoken words of L. Ron Hubbard on the subject of Scientology collectively constitute the scripture of the religion",
+      "pSites": "Locations of major Scientology centers in the United States and the United Kingdom\n1. Saint Hill Manor 2. Flag Land Base 3. PAC Base 4. Gold Base 5. Trementina Base 6. Flag ship, Freewinds\nThe \"worldwide spiritual headquarters\" of the Church of Scientology is known as \"Flag Land Base,\" located in Clearwater, Florida. It is operated by the Floridian corporation Church of Scientology Flag Service Organization, Inc..\nLos Angeles, California, has the largest concentration of Scientologists and Scientology-related organizations in the world, with the church's most visible presence being in the Hollywood district of the city. \nThe headquarters of the Religious Technology Center, the entity that oversees Scientology operations worldwide, is located in unincorporated Riverside County, California, near Gilman Hot Springs and north of Hemet.",
+      "pPeople": "Tom Cruise,  John Travolta, Giovanni Ribisi, Erika Christensen, Catherine Bell, Robert Duggan,Doug Dohring",
+      "pIssues": "Hubbard began teaching Dianetics principles in the 1950s. Almost immediately, his claims were derided by experts in medicine and psychiatry. Since its inception, Dianetics has been classified as a pseudoscience, in the same category as phrenology, homeopathy, and astrology. There are no scientific studies supporting its effectiveness nor any scientific reasons to think that it would work as advertised. Dianetics\u2019 most proven capability is in generating revenue: auditing sessions are expensive, and the wealthy are profoundly over-represented in Scientology.",
+      "pMorning": "Heb 8:1 - 9:10",
+      "pAfternoon": "Heb 9 : 11 - 28",
+      "pEvening": "Heb 10 :1 -18",
+      "SheetName": "38 - Scientology"
+   },
+   {
+      "pDataCont": "Y",
+      "pName": "Interesting Religions",
+      "Description": "As we have seen most of the faiths and beliefs this world shares with us.\nToday, I thought of sharing some of the interesting religious groups, there are some many such groups. But these are somewhat interesting to be shared and prayed for.",
+      "pDataContent": "[\r\n   {\r\n      \"Iglesia Maradoniana\": \"Iglesia Maradoniana (Church of Maradona) /  IM/CoM\\nType:    Christian-style movement\\nOrientation:  Sport-themed Parody religion\\nRegion:   Argentina\\nFounder:   H\\u00E9ctor Campomar, Alejandro Ver\\u00F3n, Hern\\u00E1n Amez\\nOrigin:   30 October 1998, Rosario, Argentina\\nMembers:   120,000-200,000\\n\\nThe Iglesia Maradoniana (English: Church of Maradona; literally Maradonian Church) is a religion, created by fans of the retired Argentine football player Diego Maradona, whom they believe to be the best player of all time.\\n\\nThe \\\"Ten Commandments\\\" of the Iglesia Maradoniana are:\\nThe ball is never soiled.\\nLove football above all else.\\nDeclare unconditional love for Diego and the beauty of football.\\nDefend the Argentina shirt.\\nSpread the news of Diego's miracles throughout the universe.\\nHonor the temples where he played and his sacred shirts.\\nDon't proclaim Diego as a member of any single team.\\nPreach and spread the principles of the Church of Maradona.\\nMake Diego your middle name and name your first son Diego.\\nDon't live estranged from reality and don't be useless.\",\r\n      \"Jediism\": \"Jediism (or Jedism]) is a philosophy mainly based on the depiction of the Jedi characters in Star Wars media. Jediism attracted public attention in 2001 when a number of people recorded their religion as \\\"Jedi\\\" on national censuses.\\n\\nAlthough followers of Jediism acknowledge the influence of Star Wars on their religion, by following the moral and spiritual codes demonstrated by the fictional Jedi, they also insist their path is different from that of the fictional characters and that Jediism does not focus on the myth and fiction found in Star Wars. While there is some variation in teaching, the Jedi of the Temple of the Jedi Order follows the \\\"16 teachings\\\" based on the presentation of the fictional Jedi, such as \\\"Jedi are mindful of the negative emotions which lead to the Dark Side\\\" and \\\"Jedi are guardians of peace and justice\\\".  Adherents also follow \\\"21 maxims\\\".\\n\\nThe Jedi census phenomenon is a grassroots movement that was initiated in 2001 for residents of a number of English-speaking countries, urging them to record their religion as \\\"Jedi\\\" or \\\"Jedi Knight\\\" (after the quasi-religious order of Jedi Knights in the fictional Star Wars universe) on the national census.\\n\\nClose to 48,000 people reported themselves as Jedi for the 2016 census. The Jedi Census phenomenon attracted the attention of sociologist of religion Adam Possamai who discusses it in his book Religion and Popular Culture: A Hyper-Real Testament.\",\r\n      \"Pastafarianism\": \"Pastafarianism (a portmanteau of pasta and Rastafarianism) is a social movement that promotes a light-hearted view of religion and opposes the teaching of intelligent design and creationism in public schools. According to adherents, Pastafarianism is a \\\"real, legitimate religion, as much as any other\\\".\\n\\nFood is a religion. It is legally recognized as a religion in the Netherlands and New Zealand \\u2013 where Pastafarian representatives have been authorized to celebrate weddings and where the first legally recognised Pastafarian wedding was performed in April 2016.\\n\\nSacred Texts: The Gospel of the Flying Spaghetti Monster, The Loose Canon, the Holy Book of the Church of the Flying Spaghetti Monster\\n\\nPopulation: 50,000 to 80,000, but it is a hard estimate.\",\r\n      \"Ra\u00EBlism\": \"Ra\\u00EBlism is a UFO religion that was founded in 1974 by Claude Vorilhon, now known as Ra\\u00EBl. The Ra\\u00EBlian Movement teaches that life on Earth was scientifically created by a species of extraterrestrial human scientists, which they call the \\\"Elohim\\\". \\n\\nType:    New religious movement\\nClassification:  UFO religion\\nScripture Main: Intelligent Design: Message from the Designers\\n   Minor: Sensual Meditation (Religious novel), Let\\u2019s Welcome the Extra-terrestrials, Geniocracy, Yes to Human Cloning and The Maitreya (Ra\\u00EBlian novel),\\nRegion:    Mostly worldwide\\nHeadquarters:  Geneva, Switzerland\\nFounder:   Claude Vorilhon\\nOrigin:    19 September 1974, Auvergne, France\\nMembers:   100,000 (2018)\\nOther name(s):  Ra\\u00EBlianism and Ra\\u00EBlian movement\\n\\nFrench former automobile journalist and race car driver Claude Vorilhon, started up this religion in 1974 because he had an alien encounter, with a race called Elohim, that allowed him to understand all religions. The aliens aren\\u2019t coming, because they already came and created the world, but they will return once we accept they are real and are ok with living with them. \",\r\n      \"Church of Euthanasia\": \"The Church of Euthanasia is a religious organization founded by Reverend Chris Korda and Pastor Kim in Boston, Massachusetts, United States in 1992. As stated in the Church's website, it is \\\"a non-profit educational foundation devoted to restoring balance between Humans and the remaining species on Earth\\\".\\n\\nFounded: 1992, Boston, Massachusetts, United States\\nHeadquarters: Boston, Massachusetts, United States\\nFounders: Chris Korda, Robert Kimberk\\n\\n\\u201CSave the Planet, Kill Yourself.\\u201D The slogan of the church that advocates for the world to stop reproducing. Their four pillars include Suicide, Cannibalism (of dead bodies), Abortion and Sodomy.\\n\\nThe One Commandment: \\\"Thou shalt not procreate\\\" \",\r\n      \"Universe People\": \"Universe People or Cosmic People of Light Powers is a Czech and Slovak UFO religion founded in the 1990s and centered on Ivo A. Benda.\\n\\nTheir belief system is based upon the existence of extraterrestrial civilizations communicating with Benda and other contactees since October 1997 telepathically and later even by direct personal contact. They are considered to be the most distinctive UFO religion in the Czech Republic.\\n\\nAccording to Benda, extraterrestrial civilizations operate a fleet of spaceships, led by Ashtar Galactic Command, orbiting the Earth. They closely watch and help the good and are waiting to transport their followers into another dimension. The Universe People's teachings incorporate various elements from ufology (some foreign contactees are credited, though often also renounced after a time as misguided or deceptive), Christianity (Jesus was a \\\"fine-vibrations\\\" being) and conspiracy theories (forces of evil are supposed to plan compulsory chipping of the population).\",\r\n      \"Matrixism\": \"Matrixism or The Path of the One is a purported religion inspired by the motion picture trilogy The Matrix.\",\r\n      \"Druidism\": \"Druidry, sometimes termed Druidism, is a modern spiritual or religious movement that generally promotes harmony, connection, and reverence for the natural world. This commonly is extended to include respect for all beings, including the environment itself.\\n\\nThe core principle of Druidry is respect and veneration of nature, and as such it often involves participation in the environmental movement. Another prominent belief among modern Druids is the veneration of ancestors, particularly those who belonged to prehistoric societies.\\n\\nModern druidism, or neo-druidry, is similar to the New Age movement in its lack of established doctrine. It is universalistic in its inclusiveness and acceptance of other belief systems and thus takes many different forms, from Druidcraft (a fusion of Wicca and druidism) to Christian Druidism with anything and everything in between. Druids can be monotheistic, duotheistic, polytheistic, animistic, pantheistic, etc., depending on what spiritual path the individual decides to pursue.\"\r\n   }\r\n]",
+      "pMorning": "Heb 10:19 - 39",
+      "pAfternoon": "Heb 11:1-28",
+      "pEvening": "Heb 11:29 - 12:12",
+      "SheetName": "40AB - Interesting Religions"
    }
 ]

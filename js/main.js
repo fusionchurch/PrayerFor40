@@ -47,7 +47,7 @@ var loadData = function(){
 	if(allData !== undefined){
 		var data = allData;
 		var objDat = data[parseInt(ind)];
-		$('#pDayNum').text("You are on Day : "+(parseInt(ind)+1)+" / 46");
+		$('#pDayNum').text("You are on Day : "+(parseInt(ind)+1)+" / 45");
 		$('#normal').show();
 		$('#spl').hide();
 		for(var nameVar in objDat){
@@ -89,7 +89,8 @@ var loadData = function(){
 }
 
 $.datetimepicker.setLocale('en');
-	var dateToDisable = new Date(2020,1,26,0,0,0);
+var dateToDisable = new Date(2020,1,26,0,0,0);
+var dateToDisable1 = new Date(2020,3,10,0,0,0);
 	var today = new Date();
 	var dateTillDisable = new Date(today.getFullYear(),today.getMonth(),today.getDate());
 	var curDt = dateTillDisable;
@@ -98,7 +99,9 @@ $('#datetimepicker').datetimepicker({
 		var dateTillDisable = new Date(today.getFullYear(),today.getMonth(),today.getDate());
 		if (((date.getTime()>=dateToDisable.getTime()) &&
 			(date.getTime()<=(dateTillDisable.getTime()+one_day-1))) || (window.user == 'FCreach@27220')) {
-			return [true, ""]
+			if((date.getTime() <= dateToDisable1.getTime()+one_day-1 ) && (date.getTime()>=dateToDisable.getTime())){
+				return [true, ""]
+			}
 		}
 
 		return [false, ""];
@@ -110,6 +113,9 @@ $('#datetimepicker').datetimepicker({
 });
  $("#datetimepicker").change(function(){
 	 curDt = new Date($("#datetimepicker").val());
+	 if((curDt.getTime() > dateToDisable1.getTime()+one_day-1 ) || (curDt.getTime()<dateToDisable.getTime())){
+		$("#datetimepicker").val('26 Feb 2020');
+	}
     loadData();
   });
 

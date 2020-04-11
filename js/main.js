@@ -92,7 +92,7 @@ $.datetimepicker.setLocale('en');
 var dateToDisable = new Date(2020,1,26,0,0,0);
 var dateToDisable1 = new Date(2020,3,10,0,0,0);
 	var today = new Date();
-	var dateTillDisable = new Date(today.getFullYear(),today.getMonth(),today.getDate());
+	var dateTillDisable = dateToDisable;
 	var curDt = dateTillDisable;
 $('#datetimepicker').datetimepicker({
 	beforeShowDay: function(date) {

@@ -70,11 +70,10 @@ html,h1,h2,h3,h4,h5,h6,a{
 .about{
 	margin: 4em 0;
 	padding: 1em;
-	min-height: 700px;
-    background-size: cover;
+	min-height: 800px;
+    background-size: center;
     background-position: center;
-	background:##f4f4f4;
-	
+	background-image: url('../images/headerback2.jpg');
 	position: relative;
 }
 .about h1{

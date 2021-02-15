@@ -1,128 +1,111 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
 	<title>Fusion 40 Day Prayer</title>
-	 <!-- add bootstrap css file -->
+	<!-- add bootstrap css file -->
 
-  <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
-  <link href="css/jquery.datetimepicker.min.css" rel="stylesheet">
-      <link rel="stylesheet" type="text/css" href="css/main.css">
+	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+	<link href="css/jquery.datetimepicker.min.css" rel="stylesheet">
+	<link rel="stylesheet" type="text/css" href="css/main.css">
 
 </head>
+
 <body>
-  <!-- navbar -->
+	<!-- navbar -->
 
-  <nav class="navbar navbar-expand-lg fixed-top ">
-	  <a class="navbar-brand" href="#"><img src="images/portfolio/logo.png" class="img-fluid"></a>
-	  
-	  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-	    <span class="navbar-toggler-icon"></span>
-	  </button>
+	<nav class="navbar navbar-expand-lg fixed-top ">
+		<a class="navbar-brand" href="#"><img src="images/portfolio/logo.png" class="img-fluid"></a>
 
-	  <div class="collapse navbar-collapse " id="navbarSupportedContent">
-	    <ul class="navbar-nav mr-4">
-	      
-	      <li class="nav-item">
-	        <a class="nav-link" data-value="biblePortion" href="#">Scripture Portion</a>
-	      </li>
-	      <li class="nav-item">
-	        <a class="nav-link " data-value="prayFor" href="#">Pray For</a>
-	      </li>
-	      <li class="nav-item">
-	        <a class="nav-link " data-value="contact" href="#">Comment</a>
-	      </li>
-	      <li class="nav-item">
-	        <a class="nav-link " data-value="header" id="login" href="#">Admin</a>
-	      </li>
-	    </ul>
-	    
-	  </div>
-</nav>
-<!-- header -->
-<header class="header " id="header">
-  <div class="overlay"></div>
-   <div class="container">
-   	  <div class="description ">
-  	<h1>
-  		Hello! Thanks for joining us!
-  		<p>
-  		Rejoice always; pray without ceasing; give thanks in all circumstances; for this is God's will for you in Christ Jesus (<a class="bibleref" target="_BLANK" href="https://www.biblegateway.com?search=1 Thessalonians 5:16-18&amp;version=NRSV&amp;src=tools">1 Thess 5:16-18</a>).</p><p>
-		Then he said to his disciples, "The harvest is plentiful, but the laborers are few; therefore pray earnestly to the Lord of the harvest to send out laborers into his harvest" (<a class="bibleref" target="_BLANK" href="https://www.biblegateway.com?search=Matthew 9:37-38&amp;version=NRSV&amp;src=tools">Matt 9:37-38</a>)
-		</p><p>
-		This lent season, we will pray for the followers of all religions and religious denominations.</p>
-  		<!--button class="btn btn-outline-secondary btn-lg">See more</button-->
-		
+		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+			aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+			<span class="navbar-toggler-icon"></span>
+		</button>
 
-  	</h1><h3>Select the Date</h3><input class="inPut" id="datetimepicker" type="text" placeholder="Click to enter a date or type a date in format '26 Feb 2020'"/>
-	
-		<h4><br><br><div ID="pDayNum"></div></h4>
-      </div>
-  </div>
-   </div>
-  
-</header>
+		<div class="collapse navbar-collapse " id="navbarSupportedContent">
+			<ul class="navbar-nav mr-4">
 
-<!-- biblePortion section -->
-<div class="about" id="biblePortion">
-	<div class="container">
-	
-	  <h1 class="text-center">Scripture Portion</h1>
-		<div class="row">
-			<div class="col-lg-4 col-md-4 col-sm-12">
-				<img src="images/bible.png" class="img-fluid">
+				<li class="nav-item">
+					<a class="nav-link" data-value="biblePortion" href="#">Scripture Portion</a>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link " data-value="contact" href="#">Comment</a>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link " data-value="header" id="login" href="#">Admin</a>
+				</li>
+			</ul>
+
+		</div>
+	</nav>
+	<!-- header -->
+	<header class="header " id="header">
+		<div class="overlay"></div>
+		<div class="container">
+			<div class="description ">
+				<h1>
+					Hello! Thanks for joining us!
+					<p>
+						Rejoice always; pray without ceasing; give thanks in all circumstances; for this is God's will
+						for you in Christ Jesus (<a class="bibleref" target="_BLANK"
+							href="https://www.biblegateway.com?search=1 Thessalonians 5:16-18&amp;version=NRSV&amp;src=tools">1
+							Thess 5:16-18</a>).</p>
+					<p>
+						Then he said to his disciples, "The harvest is plentiful, but the laborers are few; therefore
+						pray earnestly to the Lord of the harvest to send out laborers into his harvest" (<a
+							class="bibleref" target="_BLANK"
+							href="https://www.biblegateway.com?search=Matthew 9:37-38&amp;version=NRSV&amp;src=tools">Matt
+							9:37-38</a>)
+					</p>
+					<p>
+						This lent season, we will pray for the followers of all religions and religious denominations.
+					</p>
+					<!--button class="btn btn-outline-secondary btn-lg">See more</button-->
+
+
+				</h1>
+				<h3>Select the Date</h3><input class="inPut" id="datetimepicker" type="text"
+					placeholder="Click to enter a date or type a date in format '17 Feb 2021'" />
+
+				<h4><br><br>
+					<div ID="pDayNum"></div>
+				</h4>
 			</div>
-			<div class="col-lg-8 col-md-8 col-sm-12 desc">
-			  
-				<h3>Morning</h3>
-				<p ID="pMorning">
-				   <a class="bibleref" target="_BLANK" href="https://www.biblegateway.com">Morning</a>
-				</p>
-				<h3>Afternoon</h3>
-				<p ID="pAfternoon">
-				   <a class="bibleref" target="_BLANK" href="https://www.biblegateway.com">Afternoon</a>
-				</p>
-				<h3>Evening</h3>
-				<p ID="pEvening">
-				   <a class="bibleref" target="_BLANK" href="https://www.biblegateway.com">Evening</a>
-				</p>
+		</div>
+		</div>
+
+	</header>
+
+	<!-- biblePortion section -->
+	<div class="about" id="biblePortion">
+		<div class="container">
+
+			<h1 class="text-center">Scripture Portion</h1>
+			<div class="row">
+				<div class="col-lg-4 col-md-4 col-sm-12">
+					<img src="images/bible.png" class="img-fluid">
+				</div>
+				<div class="col-lg-8 col-md-8 col-sm-12 desc">
+
+					<h3>Parable: <div ID="pName"></div></h3>
+					<p ID="parable"></p>
+					<h3>Miracle: <div ID="mName"></div></h3>
+					<p ID="miracle">
+					</p>
+				</div>
 			</div>
 		</div>
 	</div>
-</div>
-
-<!-- prayFor -->
-<div class="portfolio">
-
-<div id="prayFor">
-     <h1 class="text-center"></h1>
-	<div class="container">
-	<h2><div ID="pName"></div></h2>
-	<div ID="Description"></div>
-<div ID="normal">
-<p><h4>Founder</h4><div ID="pFounder"></div></p>
-<p><h4>Date of Origin</h4><div ID="pDoOrigin">	</div></p>
-<p><h4>Place of Origin</h4><div ID="pPoOrigin">	</div></p>
-<p><h4>Population</h4><div ID="pPopulation">	</div></p>
-<p><h4>Doctrine / Beliefs / Philosophy</h4><div ID="pDoctrine"></div></p>
-<p><h4>Deviation / Movements</h4><div ID="pDeviation"></div></p>
-<p><h4>Festivals</h4><div ID="pFestivals"></div></p>
-<p><h4>Religious texts</h4><div ID="pTexts"> </div></p>
-<p><h4>Pilgrimage Sites / Religious Sites</h4><div ID="pSites">	</div></p>
-<p><h4>Key People / Famous People</h4><div ID="pPeople"></div></p>
-<p><h4>Any Issues / Concerns</h4><div ID="pIssues"></div></p>
-	</div>
-	<div ID="spl">
-	</div>
-</div>	
-</div>
-</div>
 
 
-<Contact form >
-<div class="contact-form" id="contact">
-	<div class="container">
-	<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdfGpFQXIwOWH-Q6ia93quzg4tXuU5cReF7qPoHKNKwGuAtjg/viewform?embedded=true" width="700" height="930" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-		<!--form>
+
+	<Contact form>
+		<div class="contact-form" id="contact">
+			<div class="container">
+				<iframe
+					src="https://docs.google.com/forms/d/e/1FAIpQLSdfGpFQXIwOWH-Q6ia93quzg4tXuU5cReF7qPoHKNKwGuAtjg/viewform?embedded=true"
+					width="700" height="930" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+				<!--form>
 			<div class="row">
 				<div class="col-lg-4 col-md-4 col-sm-12">
 				  <h1>Get in Touch</h1>	
@@ -143,20 +126,22 @@
 				</div>
 			</div>
 		</form-->
-	</div>
-</div>
+			</div>
+		</div>
 
-<!-- add Javasscript file from js file -->
-<script type="text/javascript" src='js/jquery.min.js'></script>
-<script type="text/javascript" src='js/bootstrap.min.js'></script>
-<script src="js/jquery.datetimepicker.full.min.js"></script>
-<script type="text/javascript" src='js/main.js'></script>
-<script src="https://www.biblegateway.com/public/link-to-us/tooltips/bglinks.js" type="text/javascript"></script>
-<script type="text/javascript">
-// Data Picker Initialization
-BGLinks.version = "NRSV";
-BGLinks.linkVerses();
-</script>
+		<!-- add Javasscript file from js file -->
+		<script type="text/javascript" src='js/jquery.min.js'></script>
+		<script type="text/javascript" src='js/bootstrap.min.js'></script>
+		<script src="js/jquery.datetimepicker.full.min.js"></script>
+		<script type="text/javascript" src='js/main.js'></script>
+		<script src="https://www.biblegateway.com/public/link-to-us/tooltips/bglinks.js"
+			type="text/javascript"></script>
+		<script type="text/javascript">
+			// Data Picker Initialization
+			BGLinks.version = "NRSV";
+			BGLinks.linkVerses();
+		</script>
 
 </body>
+
 </html>

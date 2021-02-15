@@ -34,9 +34,8 @@ html,h1,h2,h3,h4,h5,h6,a{
 .header{
 	position: relative;
 	background-image: url('../images/headerback.jpg');
-	min-height: 800px;
-	background-size: cover;
-	background-position: center;
+    background-size: contain;
+    background-position: initial;
 }
 .overlay{
 	position: absolute;
@@ -48,7 +47,7 @@ html,h1,h2,h3,h4,h5,h6,a{
 }
 .description{
     position: absolute;
-    top: 30%;
+    top: 20%;
     margin: auto;
     padding: 2em;
 
@@ -73,6 +72,7 @@ html,h1,h2,h3,h4,h5,h6,a{
 	min-height: 800px;
     background-size: center;
     background-position: center;
+	object-fit: cover;
 	background-image: url('../images/headerback2.jpg');
 	position: relative;
 }
@@ -84,6 +84,9 @@ html,h1,h2,h3,h4,h5,h6,a{
 .about img{
 	height: 100%;
     width: 100%;
+}
+.bibleImg{
+	object-fit: cover;
 }
 .about span{
 	display: block;

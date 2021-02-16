@@ -85,7 +85,8 @@ $(document).ready(function () {
 						var splitSt = objDat[nameVar].split(',');
 						var finalStr = '';
 						for (i = 0; i < splitSt.length; i++) {
-							finalStr = finalStr+'<b><a class="bibleref" target="_BLANK" href="https://www.biblegateway.com/passage/?search=' + splitSt[i] + '&amp;version=NRSV&amp;src=tools">' + splitSt[i] + '</a></b><br>'
+							finalStr = finalStr+'<p><b><a class="bibleref" target="_BLANK" href="https://www.biblegateway.com/passage/?search=' + splitSt[i] + '&amp;version=NRSV&amp;src=tools">' 
+								+ splitSt[i] + '</a></b></p>'
 						}
 						$('#' + nameVar).html(finalStr);
 					}

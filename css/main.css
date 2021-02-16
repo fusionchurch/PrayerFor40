@@ -8,9 +8,6 @@ body{
 html,h1,h2,h3,h4,h5,h6,a{
 	font-family: "Raleway";
 }
-a {
-	font-size: 32px;
-}
 .navbar{
 	background:#213955;
 }

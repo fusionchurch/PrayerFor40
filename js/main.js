@@ -48,7 +48,7 @@ $(document).ready(function () {
 		if (allData !== undefined) {
 			var data = allData;
 			var objDat = data[parseInt(ind)];
-			$('#pDayNum').text("You are on Day : " + (parseInt(ind) + 1));
+			$('#pDayNum').text("You are on <b>Day : " + (parseInt(ind) + 1))+"</b>";
 			$('#normal').show();
 			$('#spl').hide();
 			for (var nameVar in objDat) {

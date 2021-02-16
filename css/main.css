@@ -82,8 +82,8 @@ html,h1,h2,h3,h4,h5,h6,a{
 	padding-top: 1em;
 }
 .about img{
-	height: 100%;
-    width: 100%;
+	height: auto;
+    width: auto;
 }
 .bibleImg{
 	object-fit: cover;

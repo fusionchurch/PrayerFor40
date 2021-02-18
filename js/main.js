@@ -122,7 +122,7 @@ $(document).ready(function () {
 		timepicker: false,
 		format: 'd M Y',
 		formatDate: 'd-M-Y',
-		value: dateTillDisable
+		value: today
 	});
 	$("#datetimepicker").change(function () {
 		curDt = new Date($("#datetimepicker").val());

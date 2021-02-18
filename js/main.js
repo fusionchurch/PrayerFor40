@@ -105,7 +105,7 @@ $(document).ready(function () {
 	var today = new Date();
 	var dateTillDisable = dateToDisable;
 	var curDt = today;
-	if(dateToDisable > curDt)
+	if(dateToDisable <= curDt)
 		curDt = dateTillDisable
 	$('#datetimepicker').datetimepicker({
 		beforeShowDay: function (date) {
@@ -124,7 +124,7 @@ $(document).ready(function () {
 		timepicker: false,
 		format: 'd M Y',
 		formatDate: 'd-M-Y',
-		value: dateToDisable
+		value: curDt
 	});
 	$("#datetimepicker").change(function () {
 		curDt = new Date($("#datetimepicker").val());

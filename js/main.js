@@ -129,7 +129,7 @@ $(document).ready(function () {
 	$("#datetimepicker").change(function () {
 		curDt = new Date($("#datetimepicker").val());
 		if ((curDt.getTime() > dateToDisable1.getTime() + one_day - 1) || (curDt.getTime() < dateToDisable.getTime())) {
-			$("#datetimepicker").val('17 Feb 2021');
+			$("#datetimepicker").val(dateTillDisable);
 		}
 		loadData();
 	});

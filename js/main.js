@@ -104,7 +104,9 @@ $(document).ready(function () {
 	var dateToDisable1 = new Date(2021, 2, 27, 0, 0, 0);
 	var today = new Date();
 	var dateTillDisable = dateToDisable;
-	var curDt = dateTillDisable;
+	var curDt = today;
+	if(dateToDisable <= curDt)
+		curDt = dateTillDisable
 	$('#datetimepicker').datetimepicker({
 		beforeShowDay: function (date) {
 			if(date.toString().split(' ')[0] == 'Sun')

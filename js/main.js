@@ -50,6 +50,23 @@ $(document).ready(function () {
 			var objDat = data[parseInt(ind)];
 			$('#pDayNum').html("You are on <b>Day : " + (parseInt(ind) + 1))+"</b>";
 			$('#normal').show();
+			var mss1 = new Date(2021,02,17);
+			var mss2 = new Date(2021,02,28);
+			if(curDt > mss2){
+				$('#parableHeader').hide();
+				$('#miracleHeader').hide();
+				$('#messPsalms1').show();
+			}
+			else if(curDt > mss1){
+				$('#parableHeader').hide();
+				$('#miracleHeader').show();
+				$('#messPsalms1').show();
+			}
+			else{
+				$('#parableHeader').show();
+				$('#miracleHeader').show();
+				$('#messPsalms1').hide();
+			}
 			$('#spl').hide();
 			for (var nameVar in objDat) {
 				if ($('#' + nameVar) != null) {
@@ -101,7 +118,7 @@ $(document).ready(function () {
 
 	$.datetimepicker.setLocale('en');
 	var dateToDisable = new Date(2021, 1, 17, 0, 0, 0);
-	var dateToDisable1 = new Date(2021, 2, 27, 0, 0, 0);
+	var dateToDisable1 = new Date(2021, 3, 3, 0, 0, 0);
 	var today = new Date();
 	var dateTillDisable = dateToDisable;
 	var curDt = today;
